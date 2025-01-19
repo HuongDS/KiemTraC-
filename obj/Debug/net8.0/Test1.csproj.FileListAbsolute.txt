@@ -1,0 +1,14 @@
+D:\dotnet\Test1\bin\Debug\net8.0\Test1.exe
+D:\dotnet\Test1\bin\Debug\net8.0\Test1.deps.json
+D:\dotnet\Test1\bin\Debug\net8.0\Test1.runtimeconfig.json
+D:\dotnet\Test1\bin\Debug\net8.0\Test1.dll
+D:\dotnet\Test1\bin\Debug\net8.0\Test1.pdb
+D:\dotnet\Test1\obj\Debug\net8.0\Test1.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Test1\obj\Debug\net8.0\Test1.AssemblyInfoInputs.cache
+D:\dotnet\Test1\obj\Debug\net8.0\Test1.AssemblyInfo.cs
+D:\dotnet\Test1\obj\Debug\net8.0\Test1.csproj.CoreCompileInputs.cache
+D:\dotnet\Test1\obj\Debug\net8.0\Test1.dll
+D:\dotnet\Test1\obj\Debug\net8.0\refint\Test1.dll
+D:\dotnet\Test1\obj\Debug\net8.0\Test1.pdb
+D:\dotnet\Test1\obj\Debug\net8.0\Test1.genruntimeconfig.cache
+D:\dotnet\Test1\obj\Debug\net8.0\ref\Test1.dll

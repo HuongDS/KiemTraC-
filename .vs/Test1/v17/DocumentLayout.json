@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\Test1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B10598FA-FF25-4065-9B7D-88AC7D6F140D}|..\\OOP_Test_1\\OOP_Test_1.csproj|d:\\dotnet\\oop_test_1\\fruitmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10598FA-FF25-4065-9B7D-88AC7D6F140D}|..\\OOP_Test_1\\OOP_Test_1.csproj|d:\\dotnet\\oop_test_1\\inputter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10598FA-FF25-4065-9B7D-88AC7D6F140D}|..\\OOP_Test_1\\OOP_Test_1.csproj|d:\\dotnet\\oop_test_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10598FA-FF25-4065-9B7D-88AC7D6F140D}|..\\OOP_Test_1\\OOP_Test_1.csproj|d:\\dotnet\\oop_test_1\\fruitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10598FA-FF25-4065-9B7D-88AC7D6F140D}|..\\OOP_Test_1\\OOP_Test_1.csproj|d:\\dotnet\\oop_test_1\\ordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10598FA-FF25-4065-9B7D-88AC7D6F140D}|..\\OOP_Test_1\\OOP_Test_1.csproj|d:\\dotnet\\oop_test_1\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10598FA-FF25-4065-9B7D-88AC7D6F140D}|..\\OOP_Test_1\\OOP_Test_1.csproj|d:\\dotnet\\oop_test_1\\customermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10598FA-FF25-4065-9B7D-88AC7D6F140D}|..\\OOP_Test_1\\OOP_Test_1.csproj|d:\\dotnet\\oop_test_1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10598FA-FF25-4065-9B7D-88AC7D6F140D}|..\\OOP_Test_1\\OOP_Test_1.csproj|d:\\dotnet\\oop_test_1\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FruitService.cs",
+              "DocumentMoniker": "D:\\dotnet\\OOP_Test_1\\FruitService.cs",
+              "RelativeDocumentMoniker": "..\\OOP_Test_1\\FruitService.cs",
+              "ToolTip": "D:\\dotnet\\OOP_Test_1\\FruitService.cs",
+              "RelativeToolTip": "..\\OOP_Test_1\\FruitService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T03:52:29.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderManagement.cs",
+              "DocumentMoniker": "D:\\dotnet\\OOP_Test_1\\OrderManagement.cs",
+              "RelativeDocumentMoniker": "..\\OOP_Test_1\\OrderManagement.cs",
+              "ToolTip": "D:\\dotnet\\OOP_Test_1\\OrderManagement.cs",
+              "RelativeToolTip": "..\\OOP_Test_1\\OrderManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T03:24:37.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerManagement.cs",
+              "DocumentMoniker": "D:\\dotnet\\OOP_Test_1\\CustomerManagement.cs",
+              "RelativeDocumentMoniker": "..\\OOP_Test_1\\CustomerManagement.cs",
+              "ToolTip": "D:\\dotnet\\OOP_Test_1\\CustomerManagement.cs",
+              "RelativeToolTip": "..\\OOP_Test_1\\CustomerManagement.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T03:23:30.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\dotnet\\OOP_Test_1\\Order.cs",
+              "RelativeDocumentMoniker": "..\\OOP_Test_1\\Order.cs",
+              "ToolTip": "D:\\dotnet\\OOP_Test_1\\Order.cs",
+              "RelativeToolTip": "..\\OOP_Test_1\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T03:19:29.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\dotnet\\OOP_Test_1\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\OOP_Test_1\\Customer.cs",
+              "ToolTip": "D:\\dotnet\\OOP_Test_1\\Customer.cs",
+              "RelativeToolTip": "..\\OOP_Test_1\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T03:18:53.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inputter.cs",
+              "DocumentMoniker": "D:\\dotnet\\OOP_Test_1\\Inputter.cs",
+              "RelativeDocumentMoniker": "..\\OOP_Test_1\\Inputter.cs",
+              "ToolTip": "D:\\dotnet\\OOP_Test_1\\Inputter.cs",
+              "RelativeToolTip": "..\\OOP_Test_1\\Inputter.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAUwGAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T03:11:28.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FruitManagement.cs",
+              "DocumentMoniker": "D:\\dotnet\\OOP_Test_1\\FruitManagement.cs",
+              "RelativeDocumentMoniker": "..\\OOP_Test_1\\FruitManagement.cs",
+              "ToolTip": "D:\\dotnet\\OOP_Test_1\\FruitManagement.cs",
+              "RelativeToolTip": "..\\OOP_Test_1\\FruitManagement.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T03:09:16.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "D:\\dotnet\\OOP_Test_1\\Fruit.cs",
+              "RelativeDocumentMoniker": "..\\OOP_Test_1\\Fruit.cs",
+              "ToolTip": "D:\\dotnet\\OOP_Test_1\\Fruit.cs",
+              "RelativeToolTip": "..\\OOP_Test_1\\Fruit.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T03:06:32.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\OOP_Test_1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\OOP_Test_1\\Program.cs",
+              "ToolTip": "D:\\dotnet\\OOP_Test_1\\Program.cs",
+              "RelativeToolTip": "..\\OOP_Test_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T03:02:07.537Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
