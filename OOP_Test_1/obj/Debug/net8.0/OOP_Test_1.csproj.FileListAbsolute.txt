@@ -1,0 +1,14 @@
+D:\dotnet\OOP_Test_1\bin\Debug\net8.0\OOP_Test_1.exe
+D:\dotnet\OOP_Test_1\bin\Debug\net8.0\OOP_Test_1.deps.json
+D:\dotnet\OOP_Test_1\bin\Debug\net8.0\OOP_Test_1.runtimeconfig.json
+D:\dotnet\OOP_Test_1\bin\Debug\net8.0\OOP_Test_1.dll
+D:\dotnet\OOP_Test_1\bin\Debug\net8.0\OOP_Test_1.pdb
+D:\dotnet\OOP_Test_1\obj\Debug\net8.0\OOP_Test_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\OOP_Test_1\obj\Debug\net8.0\OOP_Test_1.AssemblyInfoInputs.cache
+D:\dotnet\OOP_Test_1\obj\Debug\net8.0\OOP_Test_1.AssemblyInfo.cs
+D:\dotnet\OOP_Test_1\obj\Debug\net8.0\OOP_Test_1.csproj.CoreCompileInputs.cache
+D:\dotnet\OOP_Test_1\obj\Debug\net8.0\OOP_Test_1.dll
+D:\dotnet\OOP_Test_1\obj\Debug\net8.0\refint\OOP_Test_1.dll
+D:\dotnet\OOP_Test_1\obj\Debug\net8.0\OOP_Test_1.pdb
+D:\dotnet\OOP_Test_1\obj\Debug\net8.0\OOP_Test_1.genruntimeconfig.cache
+D:\dotnet\OOP_Test_1\obj\Debug\net8.0\ref\OOP_Test_1.dll
